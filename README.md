@@ -1,2 +1,2 @@
-# image-compression-dnn
-Image compression using Deep Neural Networks
+# dnn
+Deep Neural Networks projects by Maciej Błędkowski
